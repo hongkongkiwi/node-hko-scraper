@@ -1,6 +1,6 @@
 {
-  "name": "hko-scraper",
-  "version": "0.0.4",
+  "name": "hko-weather",
+  "version": "1.0.0",
   "description": "Hong Kong Observatory and Air Quality data scraper",
   "main": "index.js",
   "scripts": {
@@ -12,18 +12,20 @@
     "hong",
     "kong"
   ],
-  "author": "Ronald Ng",
+  "author": "Andy Savage <andy@savage.hk>",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "~0.18.0",
-    "request": "~2.53.0",
-    "bluebird": "~2.9.9"
+    "bluebird": "^3.4.0",
+    "moment": "^2.13.0",
+    "request": "^2.72.0",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.16"
   },
   "devDependencies": {
     "chai": "latest"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ronalddddd/hko-scraper"
+    "type": "git",
+    "url": "https://github.com/ronalddddd/hko-scraper"
   }
 }

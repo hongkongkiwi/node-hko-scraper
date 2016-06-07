@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet href="nday.xsl" type="text/xsl" ?><rss version="2.0">
+<channel>
+   <title>9-day Weather Forecast</title>
+   <link>http://www.weather.gov.hk/wxinfo/currwx/fnd.htm</link>
+   <description>9-day Weather Forecast</description>
+   <language>en-us</language>
+   <webMaster>mailbox@hko.gov.hk</webMaster>
+   <copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website. Any reproduction, adaptation, distribution, dissemination or making available of such copyright works to the public is strictly prohibited unless prior written authorization is obtained from the Hong Kong Observatory.</copyright>
+   <image>
+      <url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+      <title>9-day Weather Forecast</title>
+      <link>http://www.weather.gov.hk/</link>
+   </image>
+   <item>
+      <guid isPermaLink="false">http://rss.weather.gov.hk/rss/SeveralDaysWeatherWeatherForecast/20160607113000</guid>
+      <pubDate>Tue, 07 Jun 2016 03:30:00 GMT</pubDate>
+      <title>Bulletin updated at 11:30 HKT 07/Jun/2016</title>
+      <category>F</category>
+      <author>Hong Kong Observatory</author>
+      <link>http://www.weather.gov.hk/wxinfo/currwx/fnd.htm</link>
+      <description><![CDATA[ 
+						
+		General Situation:<br/>A trough of low pressure will continue to linger over the south China coast in the next several days. Weather over the region will remain unsettled. An active southwesterly airstream will affect the coast of Guangdong over the weekend and early next week. There will be heavy showers and squally thunderstorms over the region.<p/><p/>
+		Date/Month:
+		08/06 (Wednesday)<br/>
+		Wind: 				
+		South force 3.<br/>
+		Weather: 		
+		Mainly cloudy with showers and a few thunderstorms.<br/>
+		Temp range: 
+		26 -  
+		30 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		09/06 (Thursday)<br/>
+		Wind: 				
+		South force 3 to 4.<br/>
+		Weather: 		
+		Mainly cloudy with showers and a few thunderstorms.<br/>
+		Temp range: 
+		26 -  
+		29 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		10/06 (Friday)<br/>
+		Wind: 				
+		South to southwest force 4.<br/>
+		Weather: 		
+		Cloudy with showers and squally thunderstorms.<br/>
+		Temp range: 
+		26 -  
+		29 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		11/06 (Saturday)<br/>
+		Wind: 				
+		Southwest force 4 to 5.<br/>
+		Weather: 		
+		Cloudy with showers. Showers will be heavy at times with squally thunderstorms.<br/>
+		Temp range: 
+		26 -  
+		29 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		12/06 (Sunday)<br/>
+		Wind: 				
+		Southwest force 4 to 5.<br/>
+		Weather: 		
+		Cloudy with showers and squally thunderstorms.<br/>
+		Temp range: 
+		27 -  
+		30 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		13/06 (Monday)<br/>
+		Wind: 				
+		Southwest force 4 to 5.<br/>
+		Weather: 		
+		Cloudy with showers and squally thunderstorms.<br/>
+		Temp range: 
+		27 -  
+		30 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		14/06 (Tuesday)<br/>
+		Wind: 				
+		Southwest force 4, occasionally force 5 offshore.<br/>
+		Weather: 		
+		Mainly cloudy with showers and a few thunderstorms.<br/>
+		Temp range: 
+		28 -  
+		31 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		15/06 (Wednesday)<br/>
+		Wind: 				
+		Southwest force 3 to 4.<br/>
+		Weather: 		
+		Mainly cloudy with showers and a few thunderstorms.<br/>
+		Temp range: 
+		28 -  
+		31 C<br/>
+		R.H. range:  
+		80 -  
+		95 per Cent<br/><p/><p/>
+		Date/Month:
+		16/06 (Thursday)<br/>
+		Wind: 				
+		South force 2 to 3.<br/>
+		Weather: 		
+		Mainly cloudy with a few showers.<br/>
+		Temp range: 
+		27 -  
+		31 C<br/>
+		R.H. range:  
+		70 -  
+		90 per Cent<br/>
+		<p/>Sea surface 
+		temperature at 	
+		7 A.M.			07/06/2016 
+		at North Point			was 26 degrees C.<br/>Soil 
+		temperatures at 	
+		7 A.M.			07/06/2016 
+		at Hong Kong Observatory			:<br/>0.5 M below surface was 28.1 degrees C
+				<br/>1.0 M below surface was 27.9 degrees C
+				<br/>
+						]]></description>
+   </item>
+</channel>
+</rss>

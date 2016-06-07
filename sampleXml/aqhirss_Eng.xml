@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Environmental Protection Department - AQHI</title><link>http://www.aqhi.gov.hk</link><description>Environmental Protection Department - AQHI and forecast</description><language>en-us</language><copyright>Environmental Protection Department</copyright><webMaster>enquiry@epd.gov.hk</webMaster><lastBuildDate>Tue, 07 Jun 2016 14:30:00 +0800</lastBuildDate><item>
+				　　<title>HKSAR Air Quality Health Index at : Tue, 07 Jun 2016 14:30:00 +0800
+						Current Condition : </title>
+
+				　　<link>http://www.aqhi.gov.hk/en.html</link><guid isPermaLink="true">http://www.aqhi.gov.hk/en.html</guid>
+				　　<description><![CDATA[<p>General Stations: 3 to 4 (Health Risk: Low to Moderate)</p><p>Roadside Stations: 4 (Health Risk: Moderate)</p>]]></description>
+			　　</item>
+			
+			　　<item>
+				　　<title>Forecast of Health Risk: </title>
+				　　<link>http://www.aqhi.gov.hk/en.html</link><guid isPermaLink="true">http://www.aqhi.gov.hk/en.html</guid>					
+				　　<description><![CDATA[<p>&lt;Today P.M.&gt;<p>General Stations: Low to Moderate</p><p>Roadside Stations: Low to Moderate</p></p><p>&lt;Tomorrow A.M.&gt;<p>General Stations: Low to Moderate</p><p>Roadside Stations: Low to Moderate</p></p>]]></description>
+			　　</item>
+		　　</channel></rss>

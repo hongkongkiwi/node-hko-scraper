@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="flw.xsl" type="text/xsl" ?><rss version="2.0">
+    <channel>
+	    <title>Local Weather Forecast</title>
+		<link>http://www.weather.gov.hk/wxinfo/currwx/flw.htm</link>
+		<description>Local Weather Forecast</description>
+		<language>en-us</language>
+		<webMaster>mailbox@hko.gov.hk</webMaster>
+		<copyright>The content available in this file, including but not limited to all text, graphics, drawings, diagrams, photographs and compilation of data or other materials are protected by copyright. The Government of the Hong Kong Special Administrative Region is the owner of all copyright works contained in this website. Any reproduction, adaptation, distribution, dissemination or making available of such copyright works to the public is strictly prohibited unless prior written authorization is obtained from the Hong Kong Observatory.</copyright>
+		<image>
+			<url>http://rss.weather.gov.hk/img/logo_dblue.gif</url>
+			<title>Local Weather Forecast</title>
+			<link>http://www.weather.gov.hk/</link>
+		</image>
+		<item>
+                        <guid isPermaLink="false">
+http://rss.weather.gov.hk/rss/LocalWeatherForecast/20160607144500</guid>
+                        <pubDate>Tue, 07 Jun 2016 06:45:00 GMT</pubDate>
+			<title>Bulletin updated at 14:45 HKT 07/06/2016</title>
+			<category>F</category>
+			<author>Hong Kong Observatory</author>
+			<link>http://www.weather.gov.hk/wxinfo/currwx/flw.htm</link>
+			<description><![CDATA[
+					A trough of low pressure is lingering over the coast of Guangdong and the northern part of the South China 
+Sea. Locally, showers after midday brought more than 20 millimetres of rainfall to Sha Tin, Ma On Shan and Yuen Long.<br/><br/>
+										Weather forecast for this afternoon and tonight:<br/>Mainly cloudy with isolated heavy showers and squally thunderstorms. Light winds.<br/><br/>
+					Outlook: Remaining unsettled with thundery showers in the next few days.			]]></description>
+		</item>
+	</channel>
+</rss>
