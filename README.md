@@ -118,6 +118,7 @@ I'm happy to fix any issues, but make sure to send a [Gist](https://gist.github.
 ## Other Handy Modules
 
 * [hongkong-pollution](https://www.github.com/hongkongkiwi/node-hongkong-pollution) - For Air Quality and Pollution Data for Hong Kong.
+* [hko-scraper](https://github.com/ronalddddd/hko-scraper) - Thanks to the original work by ronalddddd that inspired this module.
 
 
 ## Contributing
