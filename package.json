@@ -1,7 +1,7 @@
 {
-  "name": "hko-weather",
+  "name": "hongkong-weather",
   "version": "1.0.0",
-  "description": "Hong Kong Observatory and Air Quality data scraper",
+  "description": "Simple Node.js module to get in depth weather data from the Hong Kong Observatory. ",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -9,6 +9,15 @@
   "keywords": [
     "scraper",
     "weather",
+    "hko",
+    "thunderstorm",
+    "typhoon",
+    "storm",
+    "opendata",
+    "enviroment",
+    "enviromental",
+    "sar",
+    "observatory",
     "hong",
     "kong"
   ],
@@ -16,8 +25,9 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.0",
+    "cheerio": "^0.20.0",
     "moment": "^2.13.0",
-    "request": "^2.72.0",
+    "request-promise": "^3.0.0",
     "underscore": "^1.8.3",
     "xml2js": "^0.4.16"
   },
@@ -26,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ronalddddd/hko-scraper"
+    "url": "https://github.com/hongkongkiwi/node-hongkong-weather"
   }
 }
