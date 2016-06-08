@@ -110,10 +110,15 @@ Gives this response
 }
 ```
 
+## Issues
+
+I'm happy to fix any issues, but make sure to send a [Gist](https://gist.github.com) of your XML or HTML content so I can recreate the problem. The government feeds are inconsistent so sometimes I might not be able to recreate the problem.
+
 
 ## Other Handy Modules
 
 * [hongkong-pollution](https://www.github.com/hongkongkiwi/node-hongkong-pollution) - For Air Quality and Pollution Data for Hong Kong.
+
 
 ## Contributing
 

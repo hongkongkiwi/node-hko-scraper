@@ -9,8 +9,14 @@ var parseXml = Promise.promisify(require('xml2js').parseString);
 var HongKongWeather = function(options) {
   this.options = _.extendOwn({
     currentWeatherFeedUrl: "http://rss.weather.gov.hk/rss/CurrentWeather.xml",
-    currentWarningFeedUrl: "http://rss.weather.gov.hk/rss/WeatherWarningSummaryv2.xml",
-      requestOptions: {
+    currentWarningSummaryFeedUrl: "http://rss.weather.gov.hk/rss/WeatherWarningSummaryv2.xml",
+    currentWarningBulletonUrl: "http://rss.weather.gov.hk/rss/WeatherWarningBulletin.xml",
+    localForecastFeedUrl: "http://rss.weather.gov.hk/rss/LocalWeatherForecast.xml",
+    nineDayForecastFeedUrl: "http://rss.weather.gov.hk/rss/SeveralDaysWeatherForecast.xml",
+    worldEarthquakeFeedUrl: "http://rss.weather.gov.hk/rss/QuickEarthquakeMessage.xml",
+    localEathquakeFeedUrl: "http://rss.weather.gov.hk/rss/FeltEarthquake.xml",
+
+    requestOptions: {
 
       }
   }, options);
@@ -126,7 +132,24 @@ HongKongWeather.prototype.getWeatherWarnings = function() {
   // TODO: Implement me
 };
 
+
+HongKongWeather.prototype.getShortForecast = function() {
+  // TODO: Implement me
+};
+
+HongKongWeather.prototype.getLongForecast = function() {
+  // TODO: Implement me
+};
+
 HongKongWeather.prototype.getRadiationLevels = function() {
+  // TODO: Implement me
+};
+
+HongKongWeather.prototype.getLocalEarthqakes = function() {
+  // TODO: Implement me
+};
+
+HongKongWeather.prototype.getWorldEarthqakes = function() {
   // TODO: Implement me
 };
 
