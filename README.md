@@ -23,11 +23,10 @@ You can create the instance using the following
 
 ```javascript
 var HongKongWeather = require('hongkong-weather');
+var hkWeather = new HongKongWeather();
 
-var hkWeather = HongKongWeather();
-
-hkWeather.getForecast().then(function(forecast){
-    console.log(forecast);
+hkWeather.getCurrent().then(function(forecast){
+  console.log(forecast);
 });
 ```
 
