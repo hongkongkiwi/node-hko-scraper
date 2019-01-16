@@ -128,8 +128,4 @@ If you like the module, please consider donating some bitcoin or litecoin.
 
 __Bitcoin__
 
-![LNzdZksXcCF6qXbuiQpHPQ7LUeHuWa8dDW](http://i.imgur.com/9rsCfv5.png?1)
-
-__LiteCoin__
-
-![LNzdZksXcCF6qXbuiQpHPQ7LUeHuWa8dDW](http://i.imgur.com/yF1RoHp.png?1)
+![133DMqqQQGKmCfQtto2VyXzfvh5CWwTGTG](http://i.imgur.com/9rsCfv5.png?1)
